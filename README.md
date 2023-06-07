@@ -25,6 +25,9 @@ Here is an image from [images](/images): ![My Landscape](/images/istockphoto-146
 - external link to [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Emojis
-:smile: 
+
+:smile:
+
 :laughing:
+
 :+1:
